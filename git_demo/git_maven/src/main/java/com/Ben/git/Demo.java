@@ -6,6 +6,8 @@ public class Demo {
 
     private String xiaoxi;
 
+    private String xiaoxiao;
+
     public static void main(String[] args) {
         System.out.println("Hello git world");
     }
